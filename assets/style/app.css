@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(#e7e7e7 0%, #f1da98 40%, #f7eba7 100%);
+    font-family: "Poppins", sans-serif;
+}
+.propil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 15%;
+}
+.profile{
+    width: 200px;
+}
+.propil h2{
+    color: black;
+    font-family: verdana;
+    
+}
+.propil h5{
+    color: black;
+    transform: translateY(-10px);
+}
+
+.biodata {
+    background: linear-gradient(#ffffff 0%, #ffffffab 40%, #ffffff00 100%);
+    padding-bottom: 250px;
+    padding-top: 30px;
+}
+.row{
+    padding: 0px 20px;
+}
+
+.achievement{
+    padding-top: 30px;
+}
+
+.footer{
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.contact a {
+    color: black;
+    font-size: 20px;
+}
+
+.watermark{
+    padding-top: 30px;
+}
